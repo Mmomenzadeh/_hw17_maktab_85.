@@ -1,0 +1,12 @@
+.wellcome {
+  display: flex;
+  gap: 15px;
+  align-items: baseline;
+}
+.wellcomeOne h1 {
+  color: steelblue;
+}
+
+.wellcomeTwo h1 {
+  color: tomato;
+}
